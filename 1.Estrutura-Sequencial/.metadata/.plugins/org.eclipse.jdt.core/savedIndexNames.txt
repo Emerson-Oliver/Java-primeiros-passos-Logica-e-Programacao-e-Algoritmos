@@ -1,0 +1,18 @@
+INDEX VERSION 1.134+/home/emerson/Projetos/Logica de programação com Java/1.Estrutura-Sequencial/.metadata/.plugins/org.eclipse.jdt.core
+2472640678.index
+2261554113.index
+78862638.index
+2367124990.index
+1555142060.index
+1865797976.index
+3831935024.index
+412297534.index
+2483831999.index
+326361181.index
+3927879410.index
+4195370344.index
+4129847288.index
+369775674.index
+218436869.index
+1345065484.index
+337519684.index
